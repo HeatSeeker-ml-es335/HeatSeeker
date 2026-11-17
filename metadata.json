@@ -1,0 +1,6 @@
+{
+  "name": "HeatSeeker — ES 335 Thermal Hotspot Detection",
+  "description": "Real-time localized thermal hotspot detection on low-resolution 24x32 infrared arrays using pure-NumPy classical machine learning.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
